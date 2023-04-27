@@ -19,25 +19,24 @@ Nesse contexto, o seu objetivo é desenvolver um programa em Python, que busque 
 Essa API retorna em `json` uma lista de produtos à venda, em que cada produto contém campos como: categoria (`category`), preço (`price`) e o título (`title`) desse produto. O objetivo do seu programa é imprimir no terminal a média dos preços de todos os produtos da categoria `smartphones`, da seguinte forma:
 ```
 ## Resultado da coleta de dados ##
-Preço média dos smartphones: $ <valor_medio>.
+Preço médio dos smartphones: $ <valor_medio>.
 ```
-Substituindo `<valor_medio>` pelo valor médio cálculo pelo seu programa. 
+Substituindo `<valor_medio>` pelo valor médio calculado pelo seu programa. 
 Exemplificando, se o programa desenvolvido calculou uma média de 500, ele deverá imprimir no terminal dessa forma:
 ```
 ## Resultado da coleta de dados ##
-Preço média dos smartphones: $ 500.
+Preço médio dos smartphones: $ 500.
 ```
 
-
-
-### **Extra**: 
-Caso queira incrementar a solução do seu problema, guarde todos os produtos em uma tabela de banco de dados com os seguintes campos:
+Guarde todos os produtos em uma tabela de banco de dados com os seguintes campos:
 - Id
 - Title
 - Category
 - Price
 
-Ao final, imprima uma piada aleatória sobre o nosso querido Chuck Norris para descontrair um pouco a pessoa que está executando o seu programa. Para isso, utilize a API pública: [https://api.chucknorris.io/](https://api.chucknorris.io/)
+
+### **Extra**: 
+Caso queira incrementar a solução do seu problema, imprima uma piada aleatória sobre o nosso querido Chuck Norris para descontrair um pouco a pessoa que está executando o seu programa. Para isso, utilize a API pública: [https://api.chucknorris.io/](https://api.chucknorris.io/)
 
 
 ## Requisitos
@@ -46,5 +45,4 @@ Ao final, imprima uma piada aleatória sobre o nosso querido Chuck Norris para d
 - O repositório deverá conter uma documentação simples de como rodar o projeto.
 - O código deverá imprimir as informações coletadas no terminal com a formatação exemplificada na aba [Problema](#problema)
 - Bibliotecas terceiras são bem-vindas para a solução do problema.
-- *Dica*: Utilize a biblioteca [Requests](https://pypi.org/project/requests/)  para te auxiliar no desenvolvimento da solução.
-- *Dica*: Utilize a biblioteca  SQLAlchemy](https://pypi.org/project/SQLAlchemy/) para te auxiliar no desenvolvimento *extra* da solução.
+- *Dica*: Utilize as bibliotecas [Requests](https://pypi.org/project/requests/) e [SQLAlchemy](https://pypi.org/project/SQLAlchemy/)  para te auxiliar no desenvolvimento da solução.
