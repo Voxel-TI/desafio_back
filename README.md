@@ -1,11 +1,11 @@
-# Desafio Back-end
+# Desafio Back-End
 
 Por favor, leia atentamente as instruções abaixo antes de iniciar o desafio. Em caso de dúvidas, entre em contato que estaremos à disposição.
 
 ## Instruções
 
 1. Crie um repositório no GitHub para armazenar todo o código que utilizar para solucionar o problema. 
-2. Copie o link do repositório que criar e envie no e-mail `iure.brandao@voxelgestao.com` com o assunto `Desafio Backend - Seu Nome` até o dia (0X/05) às 10:00, horário de Brasília. Não podendo editar, adicionar e nem excluir qualquer arquivo após esse horário. 
+2. Copie o link do repositório que criar e envie no e-mail `iure.brandao@voxelgestao.com` com o assunto `Desafio Back-End - Seu Nome` até o dia (0X/05) às 10:00, horário de Brasília. Não podendo editar, adicionar e nem excluir qualquer arquivo após esse horário. 
 3. Não aceitaremos códigos plagiados.
 4. Leia atentamente e siga todos os passos da aba [Requisitos](#requisitos).
 5. O candidato que não cumprir os requisitos acima, estará automaticamente eliminado.
@@ -28,7 +28,7 @@ Exemplificando, se o programa desenvolvido calculou uma média de 500, ele dever
 Preço médio dos smartphones: $ 500.
 ```
 
-Guarde todos os produtos em uma tabela de banco de dados com os seguintes campos:
+Além disso, guarde **todos** os produtos em uma tabela de banco de dados com os seguintes campos:
 - Id
 - Title
 - Category
