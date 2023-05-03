@@ -5,7 +5,7 @@ Por favor, leia atentamente as instruções abaixo antes de iniciar o desafio. E
 ## Instruções
 
 1. Crie um repositório no GitHub para armazenar todo o código que utilizar para solucionar o problema. 
-2. Copie o link do repositório que criar e envie no e-mail `iure.brandao@voxelgestao.com` com o assunto `Desafio Back-End - Seu Nome` até o dia (0X/05) às 10:00, horário de Brasília. Não podendo editar, adicionar e nem excluir qualquer arquivo após esse horário. 
+2. Copie o link do repositório que criar e envie no e-mail `iure.brandao@voxelgestao.com` com o assunto `Desafio Back-End - Seu Nome` em até 3 dias (corridos), após receber esse desafio por e-mail. Não podendo editar, adicionar e nem excluir qualquer arquivo após esse horário. 
 3. Não aceitaremos códigos plagiados.
 4. Leia atentamente e siga todos os passos da aba [Requisitos](#requisitos).
 5. O candidato que não cumprir os requisitos acima, estará automaticamente eliminado.
