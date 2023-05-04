@@ -12,7 +12,7 @@ Por favor, leia atentamente as instruções abaixo antes de iniciar o desafio. E
 
 ## Problema
 
-A sigla API derivada da expressão inglesa *Application Programming Interface* que, traduzida para o português, pode ser compreendida como uma interface de programação de aplicação. Por meio de APIs, desenvolvedores podem criar novos softwares e aplicativos capazes de se comunicar com outras plataformas, a fim de capturar informações relevantes. 
+A sigla API é derivada da expressão inglesa *Application Programming Interface* que, traduzida para o português, pode ser compreendida como uma interface de programação de aplicação. Por meio de APIs, desenvolvedores podem criar novos softwares e aplicativos capazes de se comunicar com outras plataformas, a fim de capturar informações relevantes. 
 
 Nesse contexto, o seu objetivo é desenvolver um programa em Python, que busque e manipule os dados da API pública: [https://dummyjson.com/products](https://dummyjson.com/products). 
 
